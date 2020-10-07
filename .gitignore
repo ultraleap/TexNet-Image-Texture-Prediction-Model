@@ -1,0 +1,5 @@
+.idea/
+.ipynb_checkpoints/
+output_data/
+__pycache__/
+penn_images_hatt/
